@@ -1,0 +1,11 @@
+.flags {
+    display: flex;
+flex-direction: row;
+}
+.russia, .france, .finland, .shwit, .japan {
+    border: solid 1px;
+    margin: 5px;
+    padding-bottom: 0px;
+    width: 180;
+    height: 120;
+}
